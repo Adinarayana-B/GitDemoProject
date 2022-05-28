@@ -6,8 +6,8 @@ public class Test2 {
 		String str= "Github";
 				for(int i=0;i<2;i++)
 				{
-					System.out.println("everythin is temporory. just put focus 100%");
-					System.out.println(str);
+					System.out.println("everythin is temporory. just put focus 100%"+str);
+					
 				}
 
 	}
